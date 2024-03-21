@@ -17,4 +17,7 @@ Image:
 <img width="502" alt="Screenshot 2024-03-21 at 11 48 56" src="https://github.com/sihombingevita/AppUsingCoreData/assets/41824535/844da283-3568-4117-8a1f-d6137c5d7a10">
 
 
+https://github.com/sihombingevita/AppUsingCoreData/assets/41824535/ca16c27d-2d7f-483d-990d-6fdbe4440c9b
+
+
 ###End
